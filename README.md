@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Dikshant 👋
 
-<!--
-**dikshant4748/dikshant4748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Full-Stack Developer** | Learning by building
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- **LearnFlow**: Personal learning tracker (Next.js, TypeScript, PostgreSQL)
+- Daily DSA practice: 150+ LeetCode problems, 1400+ rating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, PostgreSQL, Prisma  
+**Tools:** Git, VS Code
+
+## 📚 Currently Learning
+- Building full-stack applications
+- System design principles
+- UI/UX design fundamentals
+
+## 🔗 Connect
+- Portfolio: https://lnkd.in/gvZHruYN
+- LinkedIn: https://www.linkedin.com/in/dikshant-chauhan-47324a271/
+- Email: dikshantc34@gmail.com 
+
+---
+
+💡 *Learning in public, one commit at a time.*
